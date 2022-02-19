@@ -9,7 +9,7 @@ pipeline {
         }
         stage('running') {
             steps {
-                echo "hello pipeline running"
+                echo "hello pipeline running........................................"
                 sleep 5
              }
         }
